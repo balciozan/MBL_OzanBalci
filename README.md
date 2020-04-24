@@ -22,7 +22,7 @@ Works of Ozan Balcı*
 <br/>
 
 ## Web Scrapping Homework  
-'Rank, Name, Year, Duration' information of the Top 50 Movies of IMDB has been scrapped from the IMBD website and written in a .csv file.
+'Rank, Name, Year, Duration' information of the Top 50 Movies of IMDB has been scrapped from the IMDB website and written in a .csv file.
 
 Unsolved Problems are:
 - Since ',' is a seperator in .csv, movie names which include ',' are seperated to different shells involuntarily.
