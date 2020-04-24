@@ -5,8 +5,8 @@ Works of Ozan Balcı*
 
 <br/>
 ## Table of Contents  
-* [Introduction](#introduction)
-* [Web Scrapping Homework](#web-scrapping-homework)
+* [Introduction](#introduction)  
+* [Web Scrapping Homework](#web-scrapping-homework)  
 * [Perceptron Algorithm Homework](#perceptron-algortihm-homework)
 <br/>
 
