@@ -5,12 +5,17 @@ Works of Ozan Balcı*
 
 <br/>
 ## Table of Contents  
-1. Week 4 - Web Scrapping Homework
-2. Week 8 - Perceptron Algorithm Homework 
+1. [Introduction](1. Introduction)
+2. [Week 4 - Web Scrapping Homework](#2. Week 4 - Web Scrapping Homework)
+3. Week 8 - Perceptron Algorithm Homework 
 <br/>
 
-<br/> 
-### 1. Week 4 - Web Scrapping Homework
+<br/>
+ ### 1. Introduction
+<br/>
+
+<br/>
+### 2. Week 4 - Web Scrapping Homework  
 'Rank, Name, Year, Duration' information of the Top 50 Movies of IMDB has been scrapped from the IMBD website and written in a .csv file.
 
 Unsolved Problems are:  
@@ -22,8 +27,8 @@ Unsolved Problems are:
 <br/>
 
 <br/>
-____________________________________________________________________________________________________________________________
+_____________________________________________
 <br/>
 
 <br/> 
-### 2. Week 8 - Perceptron Algortihm Homework
+### 3. Week 8 - Perceptron Algortihm Homework
