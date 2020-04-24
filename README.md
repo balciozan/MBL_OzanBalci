@@ -27,8 +27,4 @@ Unsolved Problems are:
 <br/>
 
 <br/>
-_____________________________________________
-<br/>
-
-<br/> 
 ### 3. Week 8 - Perceptron Algortihm Homework
