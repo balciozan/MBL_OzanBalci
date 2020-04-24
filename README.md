@@ -15,13 +15,13 @@ Works of Ozan Balcı*
 
 <br/>  
 
-### Introduction  
+## Introduction  
 
 <br/>
 
 <br/>
 
-### Web Scrapping Homework  
+## Web Scrapping Homework  
 'Rank, Name, Year, Duration' information of the Top 50 Movies of IMDB has been scrapped from the IMBD website and written in a .csv file.
 
 Unsolved Problems are:  
@@ -35,4 +35,4 @@ Unsolved Problems are:
 
 <br/>
 
-### Perceptron Algortihm Homework
+## Perceptron Algortihm Homework
