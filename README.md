@@ -8,7 +8,8 @@ Works of Ozan Balcı
 2. Week 8 - Perceptron Algorithm Homework
 3. 
   
-  
+  <br/><br/>
+  <br/><br/>
   
 ### 1. Week 4 - Web Scrapping Homework
 'Rank, Name, Year, Duration' information of the Top 50 Movies of IMDB has been scrapped from the IMBD website and written in a .csv file.
