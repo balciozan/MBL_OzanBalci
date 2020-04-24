@@ -5,9 +5,9 @@ Works of Ozan Balcı*
 
 <br/>
 ## Table of Contents  
-1. [Introduction](1. Introduction)
-2. [Week 4 - Web Scrapping Homework](#2. Week 4 - Web Scrapping Homework)
-3. Week 8 - Perceptron Algorithm Homework 
+1. [Introduction](#1.-Introduction)
+2. [Week 4 - Web Scrapping Homework](#2.-Week-4---Web-Scrapping-Homework)
+3. [Week 8 - Perceptron Algorithm Homework](#3.-Week-8---Perceptron-Algortihm-Homework)
 <br/>
 
 <br/>
