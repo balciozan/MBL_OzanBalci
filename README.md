@@ -19,3 +19,10 @@ Unsolved Problems are:
 - Some information such as 'Director, Gross, IMDB Rating' can not be pulled from the website.
 
 **[Go to homework.](https://github.com/balciozan/MBL_OzanBalci/tree/master/imdb_top_50)**
+<br/>
+
+<br/>
+____________________________________________________________________________________________________________________________
+<br/>
+
+<br/> 
