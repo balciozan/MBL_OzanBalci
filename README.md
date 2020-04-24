@@ -1,6 +1,6 @@
-Istanbul Technical University  
+**_Istanbul Technical University  
 MBL 549E - Special Top.in Arch.Des.Comp.  
-Works of Ozan Balcı
+Works of Ozan Balcı_**
   <br/><br/> 
 ## Content  
 1. Week 4 - Web Scrapping Homework
