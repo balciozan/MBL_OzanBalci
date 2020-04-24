@@ -4,7 +4,8 @@ Works of Ozan Balcı*
 <br/><br/> 
 ## Content  
 1. Week 4 - Web Scrapping Homework
-2. Week 8 - Perceptron Algorithm Homework   
+2. Week 8 - Perceptron Algorithm Homework  
+
 
 
 ### 1. Week 4 - Web Scrapping Homework
