@@ -44,7 +44,7 @@ Examples written below have been studied to understand the operating logic of pe
 - NOTpercepteron
 
 **[Go to homework.](https://github.com/balciozan/MBL_OzanBalci/tree/master/Percepteron%20Exercies)**  
-**[Go to homework (gColaboratory.](https://drive.google.com/drive/folders/1TmGQCd6Rwl8KUgmzAyluerX-9WxKdCTi?usp=sharing)**
+**[Go to homework (gColaboratory).](https://drive.google.com/drive/folders/1TmGQCd6Rwl8KUgmzAyluerX-9WxKdCTi?usp=sharing)**
 
 <br/>
 
