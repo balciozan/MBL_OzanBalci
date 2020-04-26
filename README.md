@@ -1,3 +1,6 @@
+github:
+  is_project_page: false
+
 *Istanbul Technical University  
 MBL 549E - Special Top.in Arch.Des.Comp.  
 Works of Ozan Balcı* 
