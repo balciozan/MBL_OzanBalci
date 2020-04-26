@@ -18,6 +18,7 @@ Works of Ozan Balcı*
 <br/>  
 
 ## Introduction  
+This gitHub page is created to submit and share the homeworks, projects & exercises have been done in Machine Learning Course which is instructed by Özgün Balaban.
 
 <br/>
 
