@@ -9,7 +9,9 @@ Works of Ozan Balcı*
 ## Table of Contents  
 * [Introduction](#introduction)  
 * [Web Scrapping Homework](#web-scrapping-homework)  
-* [Perceptron Algorithm Homework](#perceptron-algortihm-homework)
+* [Percepteron Exercises](#percepteron-exercises)  
+* [Percepteron Algorithm Homework](#percepteron-algortihm-homework)
+
 
 <br/>
 
@@ -35,4 +37,17 @@ Unsolved Problems are:
 
 <br/>
 
-## Perceptron Algortihm Homework
+## Percepteron Exercises  
+Examples written below have been studied to understand the operating logic of percepterons.
+- ANDpercepteron
+- NANDpercepteron
+- NOTpercepteron
+
+**[Go to homework.](https://github.com/balciozan/MBL_OzanBalci/tree/master/imdb_top_50)**  
+**[Go to homework (gColaboratory.](https://drive.google.com/drive/folders/1TmGQCd6Rwl8KUgmzAyluerX-9WxKdCTi?usp=sharing)**
+
+<br/>
+
+<br/>
+
+## Percepteron Algortihm Homework
