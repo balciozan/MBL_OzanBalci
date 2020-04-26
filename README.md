@@ -50,4 +50,5 @@ Examples written below have been studied to understand the operating logic of pe
 
 <br/>
 
-## Percepteron Algortihm Homework
+## Percepteron Algortihm Homework  
+*Work in progress...*
